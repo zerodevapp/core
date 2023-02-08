@@ -1,5 +1,6 @@
 # ZeroDev
 
-ZeroDev is an SDK for creating account-abstraction-enabled wallets.  This repo has been split up into multiple sub-repos.
+ZeroDev has been split up into multiple sub-repos:
 
-[Learn more about ZeroDev here](https://zerodev.app/).
+- [ZeroKit](https://zerokit.io/) -- integrate a MPC+AA wallet in 5 lines of code.
+- [ZeroDev](https://zerodev.app/) -- account abstraction wallet SDK.
